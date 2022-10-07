@@ -30,7 +30,7 @@ Engineering Notes:
 - [3D Printing](https://github.com/walchko/github-blog/tree/master/source/blog/3d-printing)
 - [Python, `venv`, `jupyter`, etc](https://github.com/walchko/bearsnacks)
 - [C/C++](https://github.com/Bear-Snacks/bear-snacks.github.io)
-  - [CMake]([https://github.com/walchko/github-blog/tree/master/source/blog/cmake](https://github.com/Bear-Snacks/bear-snacks.github.io/blob/main/cmake/cmake.md))
+  - [CMake](https://github.com/Bear-Snacks/bear-snacks.github.io/blob/main/cmake/cmake.md)
 - [Swift](https://github.com/Bear-Snacks/bear-snacks.github.io)
 - [ROS 1/2 and Ubuntu](https://github.com/RecklessTedsFunland/izac/tree/master/docs)
 - [Udacity AI Classes](https://github.com/MarsUniversity/udacity-ai)
