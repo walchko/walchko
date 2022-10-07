@@ -26,11 +26,15 @@ This is where I do keep my work for:
 
 Engineering Notes:
 
-- [Adafruit Boards: SAMD, ESP32, I2C Sensors](https://github.com/walchko/github-blog/tree/master/source/blog/adafruit)
-- [3D Printing](https://github.com/walchko/github-blog/tree/master/source/blog/3d-printing)
-- [Python, `venv`, `jupyter`, etc](https://github.com/walchko/bearsnacks)
-- [C/C++](https://github.com/Bear-Snacks/bear-snacks.github.io)
-  - [CMake](https://github.com/Bear-Snacks/bear-snacks.github.io/blob/main/cmake/cmake.md)
-- [Swift](https://github.com/Bear-Snacks/bear-snacks.github.io)
-- [ROS 1/2 and Ubuntu](https://github.com/RecklessTedsFunland/izac/tree/master/docs)
-- [Udacity AI Classes](https://github.com/MarsUniversity/udacity-ai)
+- Hardware and Design
+  - [Adafruit Boards: SAMD, ESP32, I2C Sensors](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/tree/master/notebook/adafruit)
+  - [KiCAD and Electronics](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/tree/master/notebook/electrical-engineering)
+  - [3D Printing](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/tree/master/notebook/3d-printing)
+- Programming
+  - [Python, `venv`, `jupyter`, etc](https://github.com/walchko/bearsnacks)
+  - [C/C++](https://github.com/Bear-Snacks/bear-snacks.github.io)
+    - [CMake](https://github.com/Bear-Snacks/bear-snacks.github.io/blob/main/cmake/cmake.md)
+  - [Swift](https://github.com/Bear-Snacks/bear-snacks.github.io)
+- Robotics and AI/ML
+  - [ROS 1/2 and Ubuntu](https://github.com/RecklessTedsFunland/izac/tree/master/docs)
+  - [Udacity AI Classes](https://github.com/MarsUniversity/udacity-ai)
