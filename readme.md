@@ -23,3 +23,14 @@ This is where I do keep my work for:
 - Computer Systems
 - Teaching
 - Supporting Open Source
+
+Engineering Notes:
+
+- [Adafruit Boards: SAMD, ESP32, I2C Sensors](https://github.com/walchko/github-blog/tree/master/source/blog/adafruit)
+- [3D Printing](https://github.com/walchko/github-blog/tree/master/source/blog/3d-printing)
+- [Python, `venv`, `jupyter`, etc](https://github.com/walchko/bearsnacks)
+- [C/C++](https://github.com/Bear-Snacks/bear-snacks.github.io)
+  - [cmake - need to move](https://github.com/walchko/github-blog/tree/master/source/blog/cmake)
+- [Swift](https://github.com/Bear-Snacks/bear-snacks.github.io)
+- [ROS 1/2 and Ubuntu](https://github.com/RecklessTedsFunland/izac/tree/master/docs)
+- [Udacity AI Classes](https://github.com/MarsUniversity/udacity-ai)
