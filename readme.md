@@ -39,5 +39,7 @@ Engineering Notes:
   - [Raspberry Pi OS](https://github.com/RecklessTedsFunland/izac/tree/master/docs/linux-pios)
   - [ROS 1/2 and Ubuntu](https://github.com/RecklessTedsFunland/izac/tree/master/docs)
   - [Udacity AI Classes](https://github.com/MarsUniversity/udacity-ai)
+  - [opencv_camera](https://github.com/MomsFriendlyRobotCompany/opencv_camera/tree/master/docs/jupyter)
+  - [Apriltags](https://github.com/MomsFriendlyRobotCompany/moms_apriltag/tree/master/docs/jupyter)
 - Docker
   - [Docker](https://github.com/walchko/ultron/tree/master/docs/docker)
