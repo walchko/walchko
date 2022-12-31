@@ -36,6 +36,7 @@ Engineering Notes:
     - [CMake](https://github.com/Bear-Snacks/bear-snacks.github.io/blob/main/cmake/cmake.md)
   - [Swift](https://github.com/Bear-Snacks/bear-snacks.github.io)
 - Robotics and AI/ML
+  - [Raspberry Pi OS](https://github.com/RecklessTedsFunland/izac/tree/master/docs/linux-pios)
   - [ROS 1/2 and Ubuntu](https://github.com/RecklessTedsFunland/izac/tree/master/docs)
   - [Udacity AI Classes](https://github.com/MarsUniversity/udacity-ai)
 - Docker
