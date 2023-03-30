@@ -2,20 +2,38 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=walchko&show_icons=true&theme=dracula)
 
-<!--
-**mickeyl/mickeyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <a href="https://isocpp.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a>
+  <a href="https://isocpp.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.swift.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://jupyter.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
+  <a href="https://www.debian.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ubuntu.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> 
+  </a>
+  <a href="https://www.apple.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> 
+  </a>
+</p>
 
 This is where I do keep my work for:
 
