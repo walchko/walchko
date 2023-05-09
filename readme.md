@@ -48,6 +48,8 @@ Engineering Notes:
   - [Adafruit Boards: SAMD, ESP32, I2C Sensors](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/tree/master/notebook/adafruit)
   - [KiCAD and Electronics](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/tree/master/notebook/electrical-engineering)
   - [3D Printing](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/tree/master/notebook/3d-printing)
+  - [Fusion 360](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/blob/master/notebook/3d-printing/fusion360/fusion360.md)
+  - [Socket head machine screws](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/blob/master/notebook/3d-printing/metric-socket-cap/metric-socket-cap.md)
 - Programming
   - [Python, `venv`, `jupyter`, etc](https://github.com/walchko/bearsnacks)
   - [C/C++](https://github.com/Bear-Snacks/bear-snacks.github.io)
