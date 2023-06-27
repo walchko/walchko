@@ -55,6 +55,7 @@ Engineering Notes:
   - [C/C++](https://github.com/Bear-Snacks/bear-snacks.github.io)
     - [CMake](https://github.com/Bear-Snacks/bear-snacks.github.io/blob/main/cmake/cmake.md)
   - [Swift](https://github.com/Bear-Snacks/bear-snacks.github.io)
+  - [Ansible](https://github.com/Bear-Snacks/bear-snacks.github.io/tree/main/ansible)
 - Robotics and AI/ML
   - [Raspberry Pi OS](https://github.com/RecklessTedsFunland/izac/tree/master/docs/linux-pios)
   - [ROS 1/2 and Ubuntu](https://github.com/RecklessTedsFunland/izac/tree/master/docs)
