@@ -66,3 +66,21 @@ Engineering Notes:
   - [Docker](https://github.com/walchko/ultron/tree/master/docs/docker)
   - [Ansible](https://github.com/walchko/ultron/tree/master/docs/ansible)
   - [Proxmox](https://github.com/walchko/ultron/tree/master/docs/proxmox)
+
+---
+
+| Repository       | Language   | Description |
+|------------------|------------|-------------|
+| [bearsnacks][1]  | jupyter    | various python work on robotics, space, GIS, etc
+| [dotfiles][2]    | bash/zsh   | unix/linux files to setup enviornment 
+| [github-blog][3] | markdown   | old
+| [spacedock][4]   | python/C++ | repo template
+| [style_guide][5] | markdown   | trying to standardize how I code
+| [ultron][6]      | ansible    | setting up macos and linux machines
+
+[1]: https://github.com/walchko/bearsnacks
+[2]: https://github.com/walchko/dotfiles
+[3]: https://github.com/walchko/github-blog
+[4]: https://github.com/walchko/spacedock
+[5]: https://github.com/walchko/style_guide
+[6]: https://github.com/walchko/ultron
