@@ -74,6 +74,10 @@ Engineering Notes:
 | [bearsnacks][1]  | jupyter    | various python work on robotics, space, GIS, etc
 | [dotfiles][2]    | bash/zsh   | unix/linux files to setup enviornment 
 | [github-blog][3] | markdown   | old
+| [heimdall][8]    | python     | old, pi zero camera ... not sure I got it working
+| [project_phoenix][9] | python | command line `git` tool
+| [pyrk][10]       | python/C++ | Runge-Kutta integrater
+| [robotics][7]    | jupyter    | old jupyter notebooks on robotics topics
 | [spacedock][4]   | python/C++ | repo template
 | [style_guide][5] | markdown   | trying to standardize how I code
 | [ultron][6]      | ansible    | setting up macos and linux machines
@@ -84,3 +88,7 @@ Engineering Notes:
 [4]: https://github.com/walchko/spacedock
 [5]: https://github.com/walchko/style_guide
 [6]: https://github.com/walchko/ultron
+[7]: https://github.com/walchko/robotics
+[8]: https://github.com/walchko/heimdall
+[9]: https://github.com/walchko/project-phoenix
+[10]: https://github.com/walchko/pyrk
