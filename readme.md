@@ -54,6 +54,7 @@ Engineering Notes:
   - [Python, `venv`, `jupyter`, etc](https://github.com/walchko/bearsnacks)
   - [C/C++](https://github.com/Bear-Snacks/bear-snacks.github.io)
     - [CMake](https://github.com/Bear-Snacks/bear-snacks.github.io/blob/main/cmake/cmake.md)
+    - [Arduino](https://github.com/Bear-Snacks/bear-snacks.github.io/tree/main/arduino)
   - [Swift](https://github.com/Bear-Snacks/bear-snacks.github.io)
   - [Ansible](https://github.com/Bear-Snacks/bear-snacks.github.io/tree/main/ansible)
 - Robotics and AI/ML
