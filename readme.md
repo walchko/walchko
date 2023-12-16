@@ -46,6 +46,7 @@ Engineering Notes:
 
 - Hardware and Design
   - [Adafruit Boards: SAMD, ESP32, I2C Sensors](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/tree/master/notebook/adafruit)
+  - [Pololu Boards: voltage regulators](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/tree/master/notebook/pololu)
   - [KiCAD and Electronics](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/tree/master/notebook/electrical-engineering)
   - [3D Printing](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/tree/master/notebook/3d-printing)
   - [Fusion 360](https://github.com/MomsFriendlyRobotCompany/momsfriendlyrobotcompany.github.io/blob/master/notebook/3d-printing/fusion360/fusion360.md)
