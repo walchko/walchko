@@ -64,10 +64,11 @@ Engineering Notes:
   - [Udacity AI Classes](https://github.com/MarsUniversity/udacity-ai)
   - [opencv_camera](https://github.com/MomsFriendlyRobotCompany/opencv_camera/tree/master/docs/jupyter)
   - [Apriltags](https://github.com/MomsFriendlyRobotCompany/moms_apriltag/tree/master/docs/jupyter)
-- Docker
+- Network
   - [Docker](https://github.com/walchko/ultron/tree/master/docs/docker)
   - [Ansible](https://github.com/walchko/ultron/tree/master/docs/ansible)
   - [Proxmox](https://github.com/walchko/ultron/tree/master/docs/proxmox)
+  - [PiHole](https://github.com/walchko/ultron/tree/master/docs/pihole)
 
 ---
 
