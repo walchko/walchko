@@ -78,7 +78,7 @@ Engineering Notes:
 | [dotfiles][2]    | bash/zsh   | unix/linux files to setup enviornment 
 | [github-blog][3] | markdown   | old
 | [heimdall][8]    | python     | old, pi zero camera ... not sure I got it working
-| [helper][11]     | bash       | proxmox scripts
+| [helper][11]     | bash       | proxmox scripts and [configs][12]
 | [project_phoenix][9] | python | command line `git` tool
 | [pyrk][10]       | python/C++ | Runge-Kutta integrater
 | [robotics][7]    | jupyter    | old jupyter notebooks on robotics topics
@@ -97,3 +97,4 @@ Engineering Notes:
 [9]: https://github.com/walchko/project-phoenix
 [10]: https://github.com/walchko/pyrk
 [11]: https://github.com/walchko/helper
+[12]: https://github.com/walchko/proxmox_configs
