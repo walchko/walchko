@@ -49,7 +49,7 @@ Engineering Notes:
 - Network
   - [Docker](https://github.com/walchko/ultron/tree/master/docs/docker)
   - [Ansible](https://github.com/walchko/ultron/tree/master/docs/ansible)
-  - [Proxmox](https://github.com/walchko/ultron/tree/master/docs/proxmox)
+  - [Proxmox]([https://github.com/walchko/ultron/tree/master/docs/proxmox](https://github.com/walchko/helper/tree/main/docs))
   - [PiHole](https://github.com/walchko/ultron/tree/master/docs/pihole)
 
 ---
